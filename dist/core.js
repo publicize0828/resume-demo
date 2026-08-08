@@ -7,8 +7,8 @@
 
 /* ---------- 配置 ---------- */
 const SDK_CONFIG = {
-  appId: 'd37919f1ebf34c829f831836ce8149a9',
-  appSecret: 'a3631d111a574fc28b270440c89c5eaa',
+  appId: '',
+  appSecret: '',
   gatewayServer: 'https://nebula-agent.xingyun3d.com/user/v1/ttsa/session',
 }
 
